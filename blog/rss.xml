@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YunzaiJS Blog</title>
+        <link>https://yunzaijs.github.io/docs/blog</link>
+        <description>YunzaiJS Blog</description>
+        <lastBuildDate>Mon, 23 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[资料]]></title>
+            <link>https://yunzaijs.github.io/docs/blog/2024/12/23/releases/information</link>
+            <guid>https://yunzaijs.github.io/docs/blog/2024/12/23/releases/information</guid>
+            <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[资料]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="源码">源码<a href="https://yunzaijs.github.io/docs/blog/2024/12/23/releases/information#%E6%BA%90%E7%A0%81" class="hash-link" aria-label="Direct link to 源码" title="Direct link to 源码">​</a></h2>
+<p>构建 <a href="https://lvyjs.dev/" target="_blank" rel="noopener noreferrer">https://lvyjs.dev/</a></p>
+<p>BOT <a href="https://github.com/yunzaijs/bot" target="_blank" rel="noopener noreferrer">https://github.com/yunzaijs/bot</a></p>
+<p>OneBot <a href="https://gitee.com/snowtafir/Lain-plugin" target="_blank" rel="noopener noreferrer">https://gitee.com/snowtafir/Lain-plugin</a></p>
+<p>ICQQ <a href="https://icqq.pages.dev/" target="_blank" rel="noopener noreferrer">https://icqq.pages.dev/</a></p>
+<p>TRSS <a href="https://trss.me/" target="_blank" rel="noopener noreferrer">https://trss.me</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="攻略">攻略<a href="https://yunzaijs.github.io/docs/blog/2024/12/23/releases/information#%E6%94%BB%E7%95%A5" class="hash-link" aria-label="Direct link to 攻略" title="Direct link to 攻略">​</a></h2>
+<p>脚本 <a href="https://docs.arcticfox.top/" target="_blank" rel="noopener noreferrer">https://docs.arcticfox.top/</a></p>
+<p>教程 <a href="https://www.bilibili.com/video/BV1fBpUeDEE3/" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1fBpUeDEE3/</a></p>
+<p>攻略 <a href="https://yunzaibot.cn/" target="_blank" rel="noopener noreferrer">https://yunzaibot.cn</a></p>
+<p>攻略 <a href="https://sixflowers.icu/" target="_blank" rel="noopener noreferrer">https://sixflowers.icu/</a></p>]]></content:encoded>
+            <category>资料</category>
+        </item>
+        <item>
+            <title><![CDATA[签名]]></title>
+            <link>https://yunzaijs.github.io/docs/blog/2024/12/23/releases/qsign</link>
+            <guid>https://yunzaijs.github.io/docs/blog/2024/12/23/releases/qsign</guid>
+            <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[签名]]></description>
+            <content:encoded><![CDATA[<p><a href="https://qsign.chahuyun.cn/?key=miraibbs" target="_blank" rel="noopener noreferrer">https://qsign.chahuyun.cn/?key=miraibbs</a></p>
+<blockquote>
+<p>9.0.x</p>
+</blockquote>
+<p><a href="https://qsign-guide.trpgbot.com/" target="_blank" rel="noopener noreferrer">https://qsign-guide.trpgbot.com/</a></p>
+<blockquote>
+<p>key值为0852369
+《公益签名》
+使用者需知:请勿到处传播由于1服务器算法不行可能有时会无法使用造成的不便请谅解！
+1:#QQ签名<a href="http://110.40.45.169:7890/?key=0852369&amp;ber=9.0.90" target="_blank" rel="noopener noreferrer">http://110.40.45.169:7890/?key=0852369&amp;ber=9.0.90</a>
+2:#QQ签名<a href="https://api.furinaa.net/?key=0852369&amp;ver=9.1.30(%E6%88%96%E8%80%85%E5%85%B6%E4%BB%96)" target="_blank" rel="noopener noreferrer">https://api.furinaa.net/?key=0852369&amp;ver=9.1.30(或者其他)</a>
+3:#QQ签名<a href="https://api.yunzaibot.cn/?key=0852369&amp;ver=9.1.30%EF%BC%88%E6%88%96%E8%80%85%E5%85%B6%E4%BB%96%E7%89%88%E6%9C%AC%EF%BC%89" target="_blank" rel="noopener noreferrer">https://api.yunzaibot.cn/?key=0852369&amp;ver=9.1.30（或者其他版本）</a>
+4:#QQ签名
+<a href="https://api3.furinaa.net/?key=0852369&amp;ver=9.1.30%EF%BC%88%E6%88%96%E8%80%85%E5%85%B6%E4%BB%96%E7%89%88%E6%9C%AC%EF%BC%89" target="_blank" rel="noopener noreferrer">https://api3.furinaa.net/?key=0852369&amp;ver=9.1.30（或者其他版本）</a>
+5:#QQ签名<a href="https://api4.furinaa.net/?key=0852369&amp;ver=9.1.30%EF%BC%88%E6%88%96%E8%80%85%E5%85%B6%E4%BB%96%E7%89%88%E6%9C%AC%EF%BC%89" target="_blank" rel="noopener noreferrer">https://api4.furinaa.net/?key=0852369&amp;ver=9.1.30（或者其他版本）</a>
+2.3.4.5这三个已支持（9.0.56-9.1.35版本）
+注:1有时会用不了</p>
+</blockquote>
+<blockquote>
+<p>无白名单流量限制</p>
+</blockquote>]]></content:encoded>
+            <category>签名</category>
+        </item>
+        <item>
+            <title><![CDATA[从这里开始]]></title>
+            <link>https://yunzaijs.github.io/docs/blog/2024/12/20/event/start</link>
+            <guid>https://yunzaijs.github.io/docs/blog/2024/12/20/event/start</guid>
+            <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[乐人乐事]]></description>
+            <content:encoded><![CDATA[<p>嘎嘎嘎嘎！</p>
+<p>乐人乐事从这里开始</p>]]></content:encoded>
+            <category>乐人乐事</category>
+        </item>
+        <item>
+            <title><![CDATA[V1.0.0-rc.5]]></title>
+            <link>https://yunzaijs.github.io/docs/blog/2024/10/24/releases/1.0.0-rc.5</link>
+            <guid>https://yunzaijs.github.io/docs/blog/2024/10/24/releases/1.0.0-rc.5</guid>
+            <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[更新]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th>Project</th><th>Status</th><th>Description</th></tr></thead><tbody><tr><td><a href="https://github.com/yunzaijs/core" target="_blank" rel="noopener noreferrer">yunzaijs</a></td><td><a href="https://www.npmjs.com/package/yunzaijs" target="_blank" rel="noopener noreferrer"><img decoding="async" loading="lazy" src="https://img.shields.io/npm/v/yunzaijs.svg" alt="yunzaijs-s" class="img_ev3q"></a></td><td>机器人模块</td></tr></tbody></table>
+<ul>
+<li>修复npm应用create周期</li>
+<li>修复Node20单例插件</li>
+<li>修复BUG若干</li>
+<li>删除mys模块编译</li>
+<li>删除中间件编译</li>
+<li>增加米游中间件</li>
+<li>增加启动参数<code>--skip</code> <code>-relogin</code></li>
+<li>增加生命周期</li>
+<li>增加配置读取</li>
+<li>增加本地存储</li>
+<li>增加定时任务</li>
+<li>增加记时器</li>
+<li>增加观察者</li>
+<li>增加错误模块隔离</li>
+<li>增加切换miao崽环境脚本</li>
+<li>增加函数式编程</li>
+<li>增加中间件</li>
+<li>支持字符串模块</li>
+<li>支持V3环境</li>
+<li>优化Redis导出</li>
+<li>优化扫码登录逻辑</li>
+<li>优化后台检测机制</li>
+<li>优化上下文逻辑</li>
+<li>优化Plugin写法</li>
+<li>优化执行顺序</li>
+<li>优化应用执行顺序</li>
+<li>优化插件控制类</li>
+<li>优化插件类</li>
+<li>简化部分文件写法</li>
+<li>简化redis连接</li>
+<li>统一机器人名称和仓库命名</li>
+<li>兼容Node 18和20</li>
+<li>分离所有插件</li>
+<li>标注所有放弃的变量</li>
+<li>扩展event字段</li>
+<li>提取公共变量</li>
+<li>废弃lib目录</li>
+</ul>]]></content:encoded>
+            <category>更新</category>
+        </item>
+    </channel>
+</rss>
